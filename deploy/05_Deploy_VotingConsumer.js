@@ -1,0 +1,1 @@
+//take in params from VotingConsumer.sol and add to this script.
